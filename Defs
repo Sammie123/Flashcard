@@ -11,45 +11,43 @@ Variable naming conventions
   Variables, in JavaScript, are written in lower camelcase
 
 Functions
-
+  A function is a block of code that performs an action and returns a result; optionally takes arguments
 
 Methods
   You can think of a method as an action that a number can perform or have taken on it.
 
 Arguments
-
+  An argument is what you pass into a function or method.
 
 Parameters
-
+  A parameter is a variable that's assigned to the argument.
 
 Return
-
+ The return value is the method's response.
 
 Chaining methods
-
+  Calling a method directly on the return value of another method.
 
 Strings
-
+  a JavaScript data type that represents the exact text of whatever is enclosed in the quotes
 
 Booleans
-
+  true and false are booleans. They are not strings - they simply represent being true or false.
 
 Undefined
-
+  An object (such as a variable) without a defined value.
 
 NaN
-
+  NaN mean Not a Number, but it is actually counts as a number in JavaScript.
 
 Escape
-
+ This is an obsolete function that makes a string portable.
 
 Alert
-
+  A method that displays an alert box. An alert box is often used if you want to make sure information comes through to the user.
 
 Comments
-
+  anything following // on a line in JavaScript is ignored by the computer. Comments are a convenient way to leave notes in your code for yourself or other programmers.
 
 jQuery
-
-
-Attributes
+  jQuery is a JavaScript library that makes it easier to incorporate JavaScript on your web pages.

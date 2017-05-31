@@ -29,7 +29,41 @@
   text-decoration: underline;
 }
 
-  .border2 {
-    border-style: outset;
-    background-color: #f2f2f2;
-  }
+.border2 {
+  border-style: outset;
+  background-color: #f2f2f2;
+}
+
+#variables-showing {
+  display: none;
+}
+.clickable3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable3:hover {
+  text-decoration: underline;
+}
+
+.border3 {
+  border-style: outset;
+  background-color: #f2f2f2;
+}
+
+#function-showing {
+  display: none;
+}
+.clickable4 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable4:hover {
+  text-decoration: underline;
+}
+
+.border4 {
+  border-style: outset;
+  background-color: #f2f2f2;
+}
