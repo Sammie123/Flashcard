@@ -1,0 +1,35 @@
+#javascript-showing {
+  display: none;
+}
+
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.border {
+  border-style: outset;
+  background-color: #f2f2f2;
+}
+
+#operators-showing {
+  display: none;
+}
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable2:hover {
+  text-decoration: underline;
+}
+
+  .border2 {
+    border-style: outset;
+    background-color: #f2f2f2;
+  }
